@@ -69,11 +69,15 @@ Dificuldades encontradas: necessidade de refinar prompts para evitar respostas s
 ### 🔗 Conversas NotebookLM
 [Acesse aqui](https://notebooklm.google.com/notebook/1709dce1-d089-4f2b-836b-163da56a425c/preview)
 
+vídeo resumo https://notebooklm.google.com/notebook/1709dce1-d089-4f2b-836b-163da56a425c/artifact/31136e5e-729c-457f-b01d-31d247e407af?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+
+
 ### 🗺️ Mapas Mentais
  ![NotebookLM Mind Map](https://github.com/user-attachments/assets/28349511-7038-49cc-b21d-3ca2e09dd98e)  
 ![NotebookLM Mind Map (1)](https://github.com/user-attachments/assets/18827ed2-acaf-4682-bc1a-0c15418d8403)
 
 ---
+
 
 ## 📜 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
