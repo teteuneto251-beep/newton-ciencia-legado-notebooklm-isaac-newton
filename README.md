@@ -77,6 +77,8 @@ vídeo resumo https://notebooklm.google.com/notebook/1709dce1-d089-4f2b-836b-163
 ![NotebookLM Mind Map (1)](https://github.com/user-attachments/assets/18827ed2-acaf-4682-bc1a-0c15418d8403)
 
 ---
+slides de apresentação 
+https://notebooklm.google.com/notebook/1709dce1-d089-4f2b-836b-163da56a425c/artifact/78015991-2069-42dc-96ab-81eef4a3d691?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
 
 
 ## 📜 Licença
