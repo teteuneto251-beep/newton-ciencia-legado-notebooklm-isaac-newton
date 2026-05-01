@@ -73,11 +73,6 @@ Dificuldades encontradas: necessidade de refinar prompts para evitar respostas s
 ![NotebookLM Mind Map](https://github.com/user-attachments/assets/28349511-7038-49cc-b21d-3ca2e09dd98e)  
 ![NotebookLM Mind Map (1)](https://github.com/user-attachments/assets/18827ed2-acaf-4682-bc1a-0c15418d8403)
 
-### 📑 Slides: As Leis da Mudança
-![Slides Newton](https://github.com/user-attachments/assets/SEU-SLIDE-ID-AQUI)
-
-*(Aqui você pode subir os slides como imagens ou PDF no repositório e linkar diretamente.)*
-
 ---
 
 ## 📜 Licença
